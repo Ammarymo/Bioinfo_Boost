@@ -96,4 +96,8 @@ Afterward, you can specialize in your chosen field.
 
 --- 
 
-Let me know if you need further refinements!
+### Additional Notes 
+- Try to find a mentor
+- The learning process isn't linear so you will go back and forth
+- Planning is more important than learning so try to set a plan
+- You can contact me anytime on LinkedIn or Facebook
