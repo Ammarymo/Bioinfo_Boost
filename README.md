@@ -1,6 +1,8 @@
 # Bioinformatics Boost: A Roadmap for Biologists
 **Ammar Y. Mohamed [LinkedIn](https://www.linkedin.com/in/ammarymo/), [Facebook](https://web.facebook.com/ammarsilva99/)**
 
+![CowSay](cowmooo.png)
+
 ## Introduction
 If you are a biologist looking to enter the world of **bioinformatics**, you'll need to study some additional subjects and sciences. Fortunately, with abundant online resources, it's easier than ever to learn what you need. Just follow the checklist below to get started!
 
