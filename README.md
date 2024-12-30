@@ -37,6 +37,8 @@ Follow these steps carefully and aim to understand each one fully.
 - **Statistics**: [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - **Linear Algebra**: [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
+Why to learn Linear Algebra? Check this post [Click Here](https://www.linkedin.com/posts/%F0%9F%8E%AF-ming-tommy-tang-40650014_bioinformatics-mathskills-neverstoplearning-activity-7279500230117490688-uDhu?utm_source=share&utm_medium=member_desktop)
+
 #### Programming
 Begin by developing foundational computer science skills.
 
